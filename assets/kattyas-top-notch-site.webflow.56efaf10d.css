@@ -367,6 +367,9 @@
   color: #f2e9e1;
   text-align: center;
 }
+.text-block-custom{
+  width: 134px;
+}
 
 .text-block-6 {
   display: -webkit-box;
